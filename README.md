@@ -6,23 +6,23 @@ Lossless PNG, JPEG and GIF image optimization / compression for Windows.
 |:----------|:----------|
 |Adobe Photoshop CC 2015 (Export as) — 56.10 KB|Image Catalyst (Xtreme) — 51.25 KB|
 
-All credits to [**Lorents**](https://github.com/lorents17) & [**Res2001**](https://github.com/res2001), I just updated the binaries with NASM, CMake and Visual Studio 2017.
+All credits to [**Lorents**](https://github.com/lorents17) & [**Res2001**](https://github.com/res2001), I just updated the binaries.
 
 ### Tools
 
 ##### PNG:
-- AdvDef ([AdvanceComp](https://github.com/amadvance/advancecomp/releases) 2.0)
+- AdvDef ([AdvanceComp](https://github.com/amadvance/advancecomp/releases) 2.1)
 - DeflOpt 2.07 (no updates after 2006)
 - [PNGWolfZopfli](https://github.com/jibsen/pngwolf-zopfli/releases) 1.1.2
-- [TruePNG](http://x128.ho.ua/pngutils.html) 0.6.2.2 (no updates after 2016)
+- [TruePNG](http://x128.ho.ua/pngutils.html) 0.6.2.5
 
 ##### JPEG:
 - [JPEGinfo](http://rtfreesoft.blogspot.ru/2014/03/jpginfo.html) (no updates after 2014)
 - [JPEGstripper](http://rtfreesoft.blogspot.ru/2014/03/jpegstripper.html) (no updates after 2014)
-- JPEGTran ([MozJPEG](https://github.com/mozilla/mozjpeg) 1.5.2)
+- JPEGTran ([MozJPEG](https://github.com/mozilla/mozjpeg)(https://mozjpeg.codelove.de/binaries.html) 3.3.1)
 
 ##### GIF:
-- [GIFSicle](https://github.com/kohler/gifsicle/releases) 1.90
+- [GIFSicle](https://github.com/kohler/gifsicle/releases) 1.90 (1.92 exists)
 
 ### System requirements
 
